@@ -1,13 +1,13 @@
 # Hola!, Soy Facundo Cabrera 👋
 
-🎓 **Estudiante de Tecnicatura Universitaria en Programación @ UTN**  
+🎓 **Estudiante de Tecnicatura Universitaria en Programación UTN**  
 
 ---
 
 ### 🚀 Sobre mí
 
 - 📚 Estudiando la **Tecnicatura Universitaria en Programación** en **UTN (Mendoza, Argentina)**.
-- 🛠️ Desarrollando proyectos y prácticas en **Java**, **Python**, **R** y **SQL**.
+- 🛠️ Desarrollando proyectos y prácticas en **Java**, **Python** y **SQL**.
 - 🌐 Explorando desarrollo web, bases de datos relacionales y virtualización con **Docker**.
 - 🎮 Gamer en mi tiempo libre (*shooters tacticos*, *shooters de extracción*, *MMORPGS*, y demás).
 
