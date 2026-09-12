@@ -42,10 +42,24 @@
 ### 📬 Contacto & Redes
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/facundo-cabrera-374588436/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- Gmail -->
+  <a href="mailto:cabrerafacu4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="cabrerafacu4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/facundo-cabrera-374588436/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/542616564411" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/facu_cabre15" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/714965510571294740" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
