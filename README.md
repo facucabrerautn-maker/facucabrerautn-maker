@@ -1,4 +1,4 @@
-# Hola!, Soy Facundo Cabrera 👋
+# Hola! Soy Facundo Cabrera 👋
 
 🎓 **Estudiante de Tecnicatura Universitaria en Programación UTN**  
 
